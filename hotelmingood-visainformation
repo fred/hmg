@@ -1,0 +1,860 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+  <title>Penang Hotel Mingood - Hotel Mingood - Thai Visa Information</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <style type="text/css">
+  #g_title p, #g_footer p, #g_description p {
+    margin: 0;
+  }
+  /*
+
+  	-- -- -- -- -- -- --
+  	Browser Fixes
+  	-- -- -- -- -- -- --
+  	
+  	This file uses CSS filtering methods to fix various
+  	layout bugs.
+
+  	Each of the following three imported files is a 
+  	separate, browser-specific CSS file that keeps all 
+  	hacks out of the main style sheet.
+  	
+  	Over time, as supporting these browsers no longer
+  	remains a priority, cleaning up the hacks is as
+  	easy as deleting the @import statement below, or
+  	simply no longer linking this file from the HTML.
+  	
+  */
+
+  /* 
+    fix ie6 "peekaboo bug" using the "holly hack". 
+    Note, this style only gets applied to ie6
+  */
+  * html .wrapper {
+    height: 0.1%;
+  }
+
+  /* 
+   * IE5 mac - overrides the IE/Win hack 
+   */
+
+  /*\*//*/
+
+  * html #threecolumn div {
+  	height: auto;
+  }
+
+  /**/
+
+
+  /* 
+   * IE5/Win-specific CSS -ensures #container wraps all content on window resize
+   */
+
+  @media tty {
+   i{content:"\";/*" "*/}} * html #container { height: 1%; } /*";}
+  }/* */
+  /* Styling for editable elements. Eventually, this will be part of the style. */
+  .editable {
+    border: 1px dashed blue;
+  }
+  
+  #footer {
+    clear: both;
+  }
+  
+  /* Extra divs hidden by default. The custom CSS can override this though */
+  #extraDiv1, #extraDiv2, #extraDiv3, #extraDiv4, #extraDiv5, #extraDiv6 {
+    display: none;
+  }
+  
+  a img,:link img,:visited img {border: none;}
+
+  body {
+    text-align: center;
+  }
+  #container {
+    width: 718px;
+    text-align: left;
+    margin: 0 auto;
+  }
+  #main-content {
+    float: right;
+    width: 470px;
+  }
+  #sidebar {
+    float: right;
+    width: 230px;
+  }
+  #footer {
+    clear: both;
+  }
+  /** BEGIN CUSTOM SKIN **/
+  /*
+
+  	-- -- -- -- -- -- --
+  	Base CSS
+  	-- -- -- -- -- -- --
+  	
+  	This file simply removes default styling on most HTML elements in 
+  	order to reduce the need to later override them.
+  	
+  */
+
+  h1,h2,h3,h4,h5,h6,pre,code,p {font-size: 1em;}
+  dl,li,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input {margin: 0; padding: 0;}
+  a img,:link img,:visited img {border: none;}
+  address {font-style: normal;}/*
+
+  	-- -- -- -- -- -- --
+  	Type Scheme: Deco
+  	-- -- -- -- -- -- --
+  	
+  */
+
+  body {
+  	font: 76% Verdana, sans-serif;
+  }	
+
+  h1, h2, h3, h4, h5, h6, p.description {
+  	font-family: "Trebuchet MS", Trebuchet, sans-serif;
+  }
+  h1 {
+  	font-size: 3em;
+  	font-weight: bold;
+  	letter-spacing: 2px;
+  }
+  h2 {
+  	font-size: 2em;
+  	font-weight: normal;
+  }
+  h3 {
+  	font-size: 1.5em;
+  }
+  h4 {
+  	font-size: 1.2em;
+  	letter-spacing: 0.2em;
+  }
+  h5 {
+  	font-size: 1.2em;
+  }
+  h6 {
+  	font-size: 1em;
+  	font-weight: bold;
+  }
+
+  p, td {
+  	line-height: 1.8em;
+  }
+  code, kbd {
+  	font-size: 1.25em;
+  }/*
+
+  	-- -- -- -- -- -- --
+  	STYLE: Chemise
+  	-- -- -- -- -- -- --
+
+  */
+
+
+
+
+  /* ie6win */
+
+  #footer {
+  	height: 1%;
+  }
+
+  /* ie5mac */
+
+  /*\*//*/
+  #footer { height: auto; }
+  /**/
+
+  /* ie5 win */
+  @media tty {
+   i{content:"\";/*" "*/}} td, * html th { font-size: 0.8em; } h1 { height: 1%; } /*";}
+  }/* */
+
+  /* Basic HTML style
+  ----------------------------------------------- */
+  a:link {
+  	padding: 0 2px;
+  }
+  body {
+  	font: 80% "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+  }
+  blockquote {
+          margin: 1em 1em;
+          font-style: italic;
+  }
+  caption {
+  	font-size: 1em;
+  	text-align: left;
+  	padding: 4px 6px;
+  }
+  	font-weight: bold;
+  }
+  dd {
+  	margin: 0 0 1em 1em;
+  }
+  hr {
+  	color: #222;
+  	background: #222;
+  	border-color: #222;
+  }
+  td {
+  	padding: 2px 5px;
+  	vertical-align: top;
+  }
+  th {
+  	font-size: 1em;
+  	padding: 2px 5px;
+  	text-align: left;
+  	border-top: solid 1px #000;
+  	border-right: solid 1px #000;
+  	border-bottom: solid 1px #000;
+  }
+
+  td p {
+  	margin-top: 0;
+  }
+
+  ul li {
+  	margin-bottom: 0.8em;
+  }
+  ol li {
+  	list-style: lower-alpha;
+  	margin-left: 2em;
+  	margin-bottom: 0.8em;
+  }
+
+
+
+
+
+
+
+
+  /* Header
+  ----------------------------------------------- */
+  #container {
+  }
+
+  #header {
+  	border-bottom: solid 1px #000;
+  	position: relative;
+  	margin: 0;
+  	margin-bottom: 10px;
+  }
+  p.description {
+  	font-size: 1em;
+  	margin: 0;
+  	padding: 0.5em 15px;
+  	border-bottom: solid 1px #000;
+  }
+  #g_description {
+  	margin: 1em 0 1em 15px;
+  }
+
+
+  /* Custom font definitions
+  ----------------------------------------------- */
+  p {
+  	margin: 1em 0;
+  	line-height: 1.5;
+  }
+  td, td p {
+  	line-height: 1.5;
+  }
+  h1,h2,h3,h4,h5,h6 {
+  	font-family: "Trebuchet MS", arial, sans-serif;
+  }
+  h1 {
+  	text-align: left;
+  	font-weight: normal;
+  	font-size: 2em;
+  	font-weight: bold;
+  	line-height: 1.5em;
+  	padding: 30px 20px 10px 15px;
+  	margin: 0;
+  	border-top: solid 1px #000;
+  	border-bottom: solid 1px #000;
+  }
+  h2 {
+  	font-size: 1.5em;
+  	color: #000;
+  	margin: 0 0 1em 0;
+  	background: url(/-/include/style/chemise/slate/h2.gif) no-repeat left bottom;
+
+  }
+  h3 {
+  	font-size: 1.2em;
+  	padding: 4px 10px;
+  	margin-top: 0.5em;
+  }
+  h4 {
+  	margin-top: 0.6em;
+  	margin-left: 0.2em;
+  	font-size: 0.9em;
+  }
+  h5 {
+  	padding-left: 10px;
+  	font-size: 1em;
+  }
+  h6 {
+  	font-size: 0.9em;
+  }
+
+  a:link {
+     	color: #f6952e;
+  }
+  a:hover {
+  	background-color: #dbd4a6;
+  }
+
+  /* sidebar
+  ----------------------------------------------- */
+  #sidebar, #sidebar-alternate {
+  	margin-bottom: 2em;
+  }
+  #sidebar h3, #sidebar-alternate h3 {
+  	font-weight: normal;
+  	font-size: 1.3em;
+  	border-top: solid 1px #000;
+  	margin-bottom: 0.5em;
+  }
+  #sidebar h4, #sidebar h5, #sidebar h6,
+  #sidebar-alternate h4, #sidebar-alternate h5, #sidebar-alternate h6,
+  #sidebar p, #sidebar-alternate p {
+  	margin-left: 10px;
+  	margin-right: 20px;
+  }
+
+  #sidebar li, #sidebar-alternate li {
+  	margin-bottom: 0.8em;
+  }
+  #sidebar .links {
+  	margin-bottom: 2em;
+  }
+  #adsense {
+  	text-align: center;
+  }
+
+
+  .editable {
+  	border: dashed 1px #666;
+  }
+
+
+
+  /* layout patches
+  ----------------------------------------------- */
+  #twocolumn-liquid-left #sidebar {
+  	float: left;
+  }
+  #twocolumn-liquid-right #sidebar {
+  	float: right;
+  }
+  #threecolumn #sidebar-alternate {
+  	float: right;
+  }
+
+
+
+  /* Footer
+  ----------------------------------------------- */
+  #footer {
+  	padding: 1px 15px;
+  	border-top: solid 1px #000;
+  	border-bottom: solid 1px #000;
+  	clear: both;
+  }
+  #footer hr {
+  	display: none;
+  }
+
+
+
+  /* fixed 1 column
+  ----------------------------------------------- */
+  #onecolumn #main-content .wrapper {
+  	margin: 20px;
+  }
+
+
+  /* fixed left 2 column
+  ----------------------------------------------- */
+  #twocolumn-left #main-content .wrapper {
+  	padding: 0 20px;
+  }
+
+
+
+  /* fixed right 2 column
+  ----------------------------------------------- */
+  #twocolumn-right #main-content .wrapper {
+  	padding: 0 20px;
+  }
+
+  /* fixed right 3 column
+  ----------------------------------------------- */
+  #threecolumn #main-content .wrapper {
+  	padding: 0 20px;
+  }
+  #threecolumn #sidebar h3, #threecolumn #sidebar-alternate h3 {
+  	margin-bottom: 0;
+  }
+
+  /* liquid left 2 column
+  ----------------------------------------------- */
+  #twocolumn-liquid-left #main-content .wrapper {
+  	margin: 0 20px;
+  }
+
+
+  /* liquid right 2 column
+  ----------------------------------------------- */
+  #twocolumn-liquid-right #main-content .wrapper {
+  	margin: 0 20px;
+  }
+  /*
+
+  	-- -- -- -- -- -- --
+  	COLOR SCHEME: Ember
+  	-- -- -- -- -- -- --
+
+  */
+
+
+  /* Basic HTML style
+  ----------------------------------------------- */
+  body {
+  	color: #323229;
+  	background: #BFBFBF url(/includes/body-bg.gif) repeat-y center top;
+  }
+  caption {
+  	color: #fff;
+  	background: #2AA63B url(/includes/h3.gif) repeat;
+  }
+  code, kbd {
+  	color: #F68A21;
+  }
+  dt {
+  	color: #F68A21;
+  }
+  hr {
+  	background: #604829;
+  	border-color: #604829;
+  	border-top: none;
+  }
+  th {
+  	color: #fff;
+  	background: #F6922E url(/includes/th.gif) repeat-x 0 0;
+  	border-top: solid 1px #F8A54C;
+  	border-right: solid 1px #F4782D;
+  	border-bottom: solid 1px #F4782D;
+  }
+
+  ul li {
+  	list-style: url(/includes/h5.gif);
+  }
+
+
+
+
+
+
+  /* Header
+  ----------------------------------------------- */
+  #container {
+  	background: none;
+  }
+
+  #header {
+  	border-bottom: solid 3px #fff;
+  }
+  p.description {
+  	color: #fff;
+  	background: #F68B20 url(/includes/description.gif) repeat-x 0 0;
+  	border-top: solid 1px #F4782D;
+  	border-bottom: solid 1px #F8A54C;
+  }
+
+
+
+  /* Custom font definitions
+  ----------------------------------------------- */
+  h1 {
+  	color: #fff;
+  	background: #55554C url(/includes/h1.gif) repeat-x left bottom;
+  	border-top: solid 1px #72726E;
+  	border-bottom: solid 3px #53534A;
+  }
+  h2 {
+  	color: #B4543D;
+  	background: url(/includes/h2.gif) no-repeat left bottom;
+  }
+  h3 {
+  	color: #fff;
+  	background: #45453B url(/includes/h3.gif) repeat;
+  }
+  h4 {
+  	color: #B4543D;
+  }
+  h5 {
+  	color: #F68A21;
+  	background: url(/includes/h5.gif) no-repeat 0 0.5em;
+  }
+
+
+  /* sidebar
+  ----------------------------------------------- */
+  #sidebar, #sidebar-alternate {
+  	background: url(/includes/sidebar.gif) no-repeat right 0;
+  }
+  #sidebar h3, #sidebar-alternate h3 {
+  	color: #B4543D;
+  	background: none;
+  	border-top: none;
+  }
+
+
+  /* liquid variation
+  ----------------------------------------------- */
+  #twocolumn-liquid-left #container, #twocolumn-liquid-right #container {
+  	background: #F0ECCD url(/includes/container-liquid-left.gif) repeat-y left top;
+  }
+  #twocolumn-liquid-left #container .wrapper, #twocolumn-liquid-right #container .wrapper {
+  	background: url(/includes/container-liquid-right.gif) repeat-y right top;
+  }
+  #twocolumn-liquid-left #container .wrapper .wrapper, #twocolumn-liquid-right #container .wrapper .wrapper {
+  	background: none;
+  }
+
+
+  #twocolumn-right #sidebar, #twocolumn-liquid-right #sidebar, #threecolumn #sidebar-alternate {
+  	background: url(/includes/sidebar.gif) no-repeat left 0;
+  }
+
+
+
+  .editable {
+  	border: dashed 1px #f60;
+  }
+
+
+
+  /* Footer
+  ----------------------------------------------- */
+  #footer {
+  	color: #fff;
+  	background: #55554C url(/includes/h1.gif) repeat-x left bottom;
+  	border-top: solid 1px #72726E;
+  	border-bottom: solid 3px #53534A;
+  }
+
+  /** END CUSTOM SKIN **/
+  </style>
+
+  <!-- Hack to avoid flash of unstyled content in IE -->
+  <script> </script>
+</head>
+
+<body id="twocolumn-left">
+  <div id="container">
+    <div class="wrapper">
+      <div id="header">
+        <div class="wrapper">
+          <h1 id="page-title"><div id='g_title'>Hotel Mingood - Thai Visa Information</div></h1>
+          <div style="clear: both"></div>
+          <p class="description"><div id='g_description'><p><b><span style="font-size: 13.5pt;">Important information for those applying for Thai Visa</span></b> <br></p></div></p>
+          <div style="clear: both"></div>
+        </div>
+      </div>
+      <!-- /wrapper --><!-- /header -->
+      <div id="main-content">
+        <div class="wrapper">
+          <div class="content-item"><div id='g_body'><p>
+
+</p><div class="Section1">
+
+
+
+
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt -36pt; text-indent: 36pt;"><b><span style="font-size: 13.5pt;"></span></b><b>Address in Penang , Malaysia</b></p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt -36pt; text-indent: 36pt;">ROYAL THAI
+CONSULATE-GENERAL,</p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">No. 1 <span class="SpellE">Jalan</span> <span class="SpellE">Tunku</span> Abdul <span class="SpellE">Rahman</span></p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">10350 Penang Malaysia</p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">Tel :
+604-2269484</p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"><font color="#3333ff" size="4"><b> &quot;3D/2N Thai Visa Run Package&quot;</b></font>
+</p><div>             <font color="#ff0000" size="4"> <a href="http://www.wotif.com/hotel/View?hotel=41143&amp;page=1&amp;viewType=all">BOOK HERE</a></font></div>
+
+<p class="western" style="margin-bottom: 0.0001pt;"><b>Opening
+Hours</b></p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">09.00 - 12 .00
+hrs For submitting of visa application</p><p class="western" style="margin-bottom: 0.0001pt;">09.00 - 11.00 hrs (As of 1st June onwards) </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">14.00 - 16. 00
+hrs For collection of visa (submitted the day before)</p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"><b>Close on
+Saturday ,Sunday and Malaysia/Thai Public Holidays</b></p>
+
+<p class="MsoNormal" style="margin-bottom: 12pt;">2008</p><p class="MsoNormal" style="margin-bottom: 12pt;">25 Dec       Xmas Day</p><p class="MsoNormal" style="margin-bottom: 12pt;">29 Dec       Awal Muharram</p><p class="MsoNormal" style="margin-bottom: 12pt;">31 Dec       New Year&#39;s Eve<br></p><b>2009</b></div><p class="separator" style="text-align: center; clear: both;"><a imageanchor="1" href="Thaiholidays.jpg/Thaiholidays-full;init:.jpg" style="border-width: 0px; background-color: transparent; margin-left: 1em; margin-right: 1em;"><img style="border-width: 0px;" src="Thaiholidays.jpg/Thaiholidays-large.jpg" width="420" height="302"></a></p><div class="Section1"><b> </b>
+
+<p class="western" style="margin-bottom: 0.0001pt;">Documents
+required for visa application :-</p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">Tourist Visa
+(60 days stay) – 2 recent photos , applicant must possess funds of 10,000 </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">baht per
+person and 20,000 baht per family </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">Transit Visa
+(30 days stay) - 2 recent photos, applicant must possess funds and means </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">of transport
+out of Thailand
+(fully paid air ticket)</p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">Non-Immigrant
+Visa ‘B’ ( Single 90 days Stay valid for 90 days)</p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"><b>For
+Employment purposes</b></p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">1.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Copy
+of passport and 2 recent photos</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">2.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Copy
+of academic degree(s) or curriculum vitae</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">3.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Original
+letter of employment/contract stating position and salary</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">4.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Copy
+of company’s registration certified by authorized director(s), if teaching
+school must registration must be duly certified.</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">5.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Copy
+of list of company’s shareholders (if any)</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">6.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Copy
+of Memorandum of Association/company ‘s Regulation (if any)</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">7.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Copy
+of company’s latest income tax statement</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">8.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Copy
+of company’s latest regulation of value added tax.</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">9.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Copy
+of company’s latest Balance Sheet</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">10.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">  </span></span>List of
+expatriates and foreign workers employed by the company.</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">11.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">  </span></span>For
+exporting companies , Bill of landing or Bank Statement (s) indicating</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;">exporting transactions is required.</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">12.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">  </span></span>12. The
+WP.3 form issued by the Department of Employment is a MUST for those applying
+for Non Immigrant &quot;B&quot; visa</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"><b>For
+Business proposes</b></p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">1.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Copy
+of passport and 2 recent photos</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">2.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Letter
+of invitation/recommendation of applicant’s company indicating the reason of
+visit.</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">3.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>If
+self-employed , please present financial standing of applicant </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">4.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Documents
+required from the company inviting in Thailand (same as for employment
+purposes item 4 , 5 ,8 &amp; 9)</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">5.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>5.
+The WP.3 form issued by the Department of Employment is a MUST for those
+applying for Non Immigrant &quot;B&quot; visa</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 20.9pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">Non-Immigrant
+“O” Visa (Single 90 days Stay valid for 90 days) </p>
+
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"><b>For
+Retirement </b></p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">Copy of
+passport and 2 recent photos</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">1.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Should
+be 55 years old and above</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">2.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Proof
+of pension fund at least 30,000 baht per month and Bank Account. Pension fund
+document(s) should if certified by respective Embassies/Consulate of applicant.</p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt; text-indent: -18pt;"><span style="">3.<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">      </span></span>Spouse
+or children of applicant can also apply</p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"><b>For Staying with Thai wife
+/husband/children</b></p>
+
+<ol><li><span style=""><span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;"> </span></span>Copy
+of passport and 2 recent photos</li><li>Original
+Thai Marriage Certificate and Birth Certificate</li><li> <span style="font-family: arial,sans-serif;"><b>Original Thal Bank Saving Account Book and any other financial receivable documents</b></span></li></ol>
+
+
+
+
+
+<p class="western" style="margin-bottom: 0.0001pt;">Spouse and
+children of Foreigners with work permit and retirement visa can also apply for
+this visa.</p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">Remarks: All
+applicants with Non-Immigrant “B” visa (employment) is advised to apply for
+work-permit after entering Thailand
+which should be presented to the authorities upon next visa application.</p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;">All documents
+submitted must be translated to Thai or English and certified by an Embassies
+or appropriate authorities. </p><p class="western" style="margin-bottom: 0.0001pt;"><b style="font-family: arial,sans-serif;">Note : While we strive to present the information as
+accurately as possible, Hotel Mingood is not responsible for the
+accuracy of this information and will not be held responsible if
+applicants failed to get the visa applied for based on these
+information.</b><span style="font-family: arial,sans-serif;"> </span><br></p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 36pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 38.9pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin-bottom: 0.0001pt;"> </p>
+
+<p class="western" style="margin: 5pt 0cm 0.0001pt 72pt; text-indent: -36pt;"> </p>
+
+</div>
+
+<p> </p></div></div>
+          <div style="clear: both"></div>
+        </div>
+      </div>
+      <!-- /wrapper --><!-- /main-content -->
+      <div id="sidebar">
+        <div class="wrapper">
+          <div class="links">
+            <div class="wrapper"><div id='g_sidebar'>
+<p><a href="home2">Main Page</a></p>
+
+<p><a href="explore">Explore The Hotel</a></p>
+
+<p><a href="gettingthere2">Getting There</a></p>
+
+<p><a href="whattodoinpenang">What to Do in Penang </a></p>
+
+<p>Visa Information </p>
+
+<p><a href="rates">Rates<br></a></p>
+
+</div></div>
+            <div style="clear: both"></div>
+          </div>
+    <!-- /wrapper --><!-- /links -->
+        </div>
+        
+      </div>
+      <!-- /wrapper --><!-- /sidebar -->
+      <div id="footer"><div class="wrapper">
+        <hr />
+        <p><div id='g_footer'>
+<p>Copyright (C) 2008 Hotel Mingood</p>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-252377-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</div></p>
+        <div style="clear: both"></div>
+      </div></div>
+      <!-- /wrapper --><!-- /footer -->
+    </div>
+  </div>
+  <!-- /wrapper --><!-- /container -->
+
+<div id="extraDiv1"><span></span></div><div id="extraDiv2"><span></span></div>
+<div id="extraDiv3"><span></span></div><div id="extraDiv4"><span></span></div>
+<div id="extraDiv5"><span></span></div><div id="extraDiv6"><span></span></div>
+
+</body>
+</html>

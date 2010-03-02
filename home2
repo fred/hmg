@@ -1,0 +1,703 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+  <title>Penang Hotel Mingood - Penang Hotel Mingood</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <style type="text/css">
+  #g_title p, #g_footer p, #g_description p {
+    margin: 0;
+  }
+  /*
+
+  	-- -- -- -- -- -- --
+  	Browser Fixes
+  	-- -- -- -- -- -- --
+  	
+  	This file uses CSS filtering methods to fix various
+  	layout bugs.
+
+  	Each of the following three imported files is a 
+  	separate, browser-specific CSS file that keeps all 
+  	hacks out of the main style sheet.
+  	
+  	Over time, as supporting these browsers no longer
+  	remains a priority, cleaning up the hacks is as
+  	easy as deleting the @import statement below, or
+  	simply no longer linking this file from the HTML.
+  	
+  */
+
+  /* 
+    fix ie6 "peekaboo bug" using the "holly hack". 
+    Note, this style only gets applied to ie6
+  */
+  * html .wrapper {
+    height: 0.1%;
+  }
+
+  /* 
+   * IE5 mac - overrides the IE/Win hack 
+   */
+
+  /*\*//*/
+
+  * html #threecolumn div {
+  	height: auto;
+  }
+
+  /**/
+
+
+  /* 
+   * IE5/Win-specific CSS -ensures #container wraps all content on window resize
+   */
+
+  @media tty {
+   i{content:"\";/*" "*/}} * html #container { height: 1%; } /*";}
+  }/* */
+  /* Styling for editable elements. Eventually, this will be part of the style. */
+  .editable {
+    border: 1px dashed blue;
+  }
+  
+  #footer {
+    clear: both;
+  }
+  
+  /* Extra divs hidden by default. The custom CSS can override this though */
+  #extraDiv1, #extraDiv2, #extraDiv3, #extraDiv4, #extraDiv5, #extraDiv6 {
+    display: none;
+  }
+  
+  a img,:link img,:visited img {border: none;}
+
+  body {
+    text-align: center;
+  }
+  #container {
+    width: 718px;
+    text-align: left;
+    margin: 0 auto;
+  }
+  #main-content {
+    float: right;
+    width: 470px;
+  }
+  #sidebar {
+    float: right;
+    width: 230px;
+  }
+  #footer {
+    clear: both;
+  }
+  /** BEGIN CUSTOM SKIN **/
+  /*
+
+  	-- -- -- -- -- -- --
+  	Base CSS
+  	-- -- -- -- -- -- --
+  	
+  	This file simply removes default styling on most HTML elements in 
+  	order to reduce the need to later override them.
+  	
+  */
+
+  h1,h2,h3,h4,h5,h6,pre,code,p {font-size: 1em;}
+  dl,li,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input {margin: 0; padding: 0;}
+  a img,:link img,:visited img {border: none;}
+  address {font-style: normal;}/*
+
+  	-- -- -- -- -- -- --
+  	Type Scheme: Deco
+  	-- -- -- -- -- -- --
+  	
+  */
+
+  body {
+  	font: 76% Verdana, sans-serif;
+  }	
+
+  h1, h2, h3, h4, h5, h6, p.description {
+  	font-family: "Trebuchet MS", Trebuchet, sans-serif;
+  }
+  h1 {
+  	font-size: 3em;
+  	font-weight: bold;
+  	letter-spacing: 2px;
+  }
+  h2 {
+  	font-size: 2em;
+  	font-weight: normal;
+  }
+  h3 {
+  	font-size: 1.5em;
+  }
+  h4 {
+  	font-size: 1.2em;
+  	letter-spacing: 0.2em;
+  }
+  h5 {
+  	font-size: 1.2em;
+  }
+  h6 {
+  	font-size: 1em;
+  	font-weight: bold;
+  }
+
+  p, td {
+  	line-height: 1.8em;
+  }
+  code, kbd {
+  	font-size: 1.25em;
+  }/*
+
+  	-- -- -- -- -- -- --
+  	STYLE: Chemise
+  	-- -- -- -- -- -- --
+
+  */
+
+
+
+
+  /* ie6win */
+
+  #footer {
+  	height: 1%;
+  }
+
+  /* ie5mac */
+
+  /*\*//*/
+  #footer { height: auto; }
+  /**/
+
+  /* ie5 win */
+  @media tty {
+   i{content:"\";/*" "*/}} td, * html th { font-size: 0.8em; } h1 { height: 1%; } /*";}
+  }/* */
+
+  /* Basic HTML style
+  ----------------------------------------------- */
+  a:link {
+  	padding: 0 2px;
+  }
+  body {
+  	font: 80% "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+  }
+  blockquote {
+          margin: 1em 1em;
+          font-style: italic;
+  }
+  caption {
+  	font-size: 1em;
+  	text-align: left;
+  	padding: 4px 6px;
+  }
+  	font-weight: bold;
+  }
+  dd {
+  	margin: 0 0 1em 1em;
+  }
+  hr {
+  	color: #222;
+  	background: #222;
+  	border-color: #222;
+  }
+  td {
+  	padding: 2px 5px;
+  	vertical-align: top;
+  }
+  th {
+  	font-size: 1em;
+  	padding: 2px 5px;
+  	text-align: left;
+  	border-top: solid 1px #000;
+  	border-right: solid 1px #000;
+  	border-bottom: solid 1px #000;
+  }
+
+  td p {
+  	margin-top: 0;
+  }
+
+  ul li {
+  	margin-bottom: 0.8em;
+  }
+  ol li {
+  	list-style: lower-alpha;
+  	margin-left: 2em;
+  	margin-bottom: 0.8em;
+  }
+
+
+
+
+
+
+
+
+  /* Header
+  ----------------------------------------------- */
+  #container {
+  }
+
+  #header {
+  	border-bottom: solid 1px #000;
+  	position: relative;
+  	margin: 0;
+  	margin-bottom: 10px;
+  }
+  p.description {
+  	font-size: 1em;
+  	margin: 0;
+  	padding: 0.5em 15px;
+  	border-bottom: solid 1px #000;
+  }
+  #g_description {
+  	margin: 1em 0 1em 15px;
+  }
+
+
+  /* Custom font definitions
+  ----------------------------------------------- */
+  p {
+  	margin: 1em 0;
+  	line-height: 1.5;
+  }
+  td, td p {
+  	line-height: 1.5;
+  }
+  h1,h2,h3,h4,h5,h6 {
+  	font-family: "Trebuchet MS", arial, sans-serif;
+  }
+  h1 {
+  	text-align: left;
+  	font-weight: normal;
+  	font-size: 2em;
+  	font-weight: bold;
+  	line-height: 1.5em;
+  	padding: 30px 20px 10px 15px;
+  	margin: 0;
+  	border-top: solid 1px #000;
+  	border-bottom: solid 1px #000;
+  }
+  h2 {
+  	font-size: 1.5em;
+  	color: #000;
+  	margin: 0 0 1em 0;
+  	background: url(/-/include/style/chemise/slate/h2.gif) no-repeat left bottom;
+
+  }
+  h3 {
+  	font-size: 1.2em;
+  	padding: 4px 10px;
+  	margin-top: 0.5em;
+  }
+  h4 {
+  	margin-top: 0.6em;
+  	margin-left: 0.2em;
+  	font-size: 0.9em;
+  }
+  h5 {
+  	padding-left: 10px;
+  	font-size: 1em;
+  }
+  h6 {
+  	font-size: 0.9em;
+  }
+
+  a:link {
+     	color: #f6952e;
+  }
+  a:hover {
+  	background-color: #dbd4a6;
+  }
+
+  /* sidebar
+  ----------------------------------------------- */
+  #sidebar, #sidebar-alternate {
+  	margin-bottom: 2em;
+  }
+  #sidebar h3, #sidebar-alternate h3 {
+  	font-weight: normal;
+  	font-size: 1.3em;
+  	border-top: solid 1px #000;
+  	margin-bottom: 0.5em;
+  }
+  #sidebar h4, #sidebar h5, #sidebar h6,
+  #sidebar-alternate h4, #sidebar-alternate h5, #sidebar-alternate h6,
+  #sidebar p, #sidebar-alternate p {
+  	margin-left: 10px;
+  	margin-right: 20px;
+  }
+
+  #sidebar li, #sidebar-alternate li {
+  	margin-bottom: 0.8em;
+  }
+  #sidebar .links {
+  	margin-bottom: 2em;
+  }
+  #adsense {
+  	text-align: center;
+  }
+
+
+  .editable {
+  	border: dashed 1px #666;
+  }
+
+
+
+  /* layout patches
+  ----------------------------------------------- */
+  #twocolumn-liquid-left #sidebar {
+  	float: left;
+  }
+  #twocolumn-liquid-right #sidebar {
+  	float: right;
+  }
+  #threecolumn #sidebar-alternate {
+  	float: right;
+  }
+
+
+
+  /* Footer
+  ----------------------------------------------- */
+  #footer {
+  	padding: 1px 15px;
+  	border-top: solid 1px #000;
+  	border-bottom: solid 1px #000;
+  	clear: both;
+  }
+  #footer hr {
+  	display: none;
+  }
+
+
+
+  /* fixed 1 column
+  ----------------------------------------------- */
+  #onecolumn #main-content .wrapper {
+  	margin: 20px;
+  }
+
+
+  /* fixed left 2 column
+  ----------------------------------------------- */
+  #twocolumn-left #main-content .wrapper {
+  	padding: 0 20px;
+  }
+
+
+
+  /* fixed right 2 column
+  ----------------------------------------------- */
+  #twocolumn-right #main-content .wrapper {
+  	padding: 0 20px;
+  }
+
+  /* fixed right 3 column
+  ----------------------------------------------- */
+  #threecolumn #main-content .wrapper {
+  	padding: 0 20px;
+  }
+  #threecolumn #sidebar h3, #threecolumn #sidebar-alternate h3 {
+  	margin-bottom: 0;
+  }
+
+  /* liquid left 2 column
+  ----------------------------------------------- */
+  #twocolumn-liquid-left #main-content .wrapper {
+  	margin: 0 20px;
+  }
+
+
+  /* liquid right 2 column
+  ----------------------------------------------- */
+  #twocolumn-liquid-right #main-content .wrapper {
+  	margin: 0 20px;
+  }
+  /*
+
+  	-- -- -- -- -- -- --
+  	COLOR SCHEME: Ember
+  	-- -- -- -- -- -- --
+
+  */
+
+
+  /* Basic HTML style
+  ----------------------------------------------- */
+  body {
+  	color: #323229;
+  	background: #BFBFBF url(/includes/body-bg.gif) repeat-y center top;
+  }
+  caption {
+  	color: #fff;
+  	background: #2AA63B url(/includes/h3.gif) repeat;
+  }
+  code, kbd {
+  	color: #F68A21;
+  }
+  dt {
+  	color: #F68A21;
+  }
+  hr {
+  	background: #604829;
+  	border-color: #604829;
+  	border-top: none;
+  }
+  th {
+  	color: #fff;
+  	background: #F6922E url(/includes/th.gif) repeat-x 0 0;
+  	border-top: solid 1px #F8A54C;
+  	border-right: solid 1px #F4782D;
+  	border-bottom: solid 1px #F4782D;
+  }
+
+  ul li {
+  	list-style: url(/includes/h5.gif);
+  }
+
+
+
+
+
+
+  /* Header
+  ----------------------------------------------- */
+  #container {
+  	background: none;
+  }
+
+  #header {
+  	border-bottom: solid 3px #fff;
+  }
+  p.description {
+  	color: #fff;
+  	background: #F68B20 url(/includes/description.gif) repeat-x 0 0;
+  	border-top: solid 1px #F4782D;
+  	border-bottom: solid 1px #F8A54C;
+  }
+
+
+
+  /* Custom font definitions
+  ----------------------------------------------- */
+  h1 {
+  	color: #fff;
+  	background: #55554C url(/includes/h1.gif) repeat-x left bottom;
+  	border-top: solid 1px #72726E;
+  	border-bottom: solid 3px #53534A;
+  }
+  h2 {
+  	color: #B4543D;
+  	background: url(/includes/h2.gif) no-repeat left bottom;
+  }
+  h3 {
+  	color: #fff;
+  	background: #45453B url(/includes/h3.gif) repeat;
+  }
+  h4 {
+  	color: #B4543D;
+  }
+  h5 {
+  	color: #F68A21;
+  	background: url(/includes/h5.gif) no-repeat 0 0.5em;
+  }
+
+
+  /* sidebar
+  ----------------------------------------------- */
+  #sidebar, #sidebar-alternate {
+  	background: url(/includes/sidebar.gif) no-repeat right 0;
+  }
+  #sidebar h3, #sidebar-alternate h3 {
+  	color: #B4543D;
+  	background: none;
+  	border-top: none;
+  }
+
+
+  /* liquid variation
+  ----------------------------------------------- */
+  #twocolumn-liquid-left #container, #twocolumn-liquid-right #container {
+  	background: #F0ECCD url(/includes/container-liquid-left.gif) repeat-y left top;
+  }
+  #twocolumn-liquid-left #container .wrapper, #twocolumn-liquid-right #container .wrapper {
+  	background: url(/includes/container-liquid-right.gif) repeat-y right top;
+  }
+  #twocolumn-liquid-left #container .wrapper .wrapper, #twocolumn-liquid-right #container .wrapper .wrapper {
+  	background: none;
+  }
+
+
+  #twocolumn-right #sidebar, #twocolumn-liquid-right #sidebar, #threecolumn #sidebar-alternate {
+  	background: url(/includes/sidebar.gif) no-repeat left 0;
+  }
+
+
+
+  .editable {
+  	border: dashed 1px #f60;
+  }
+
+
+
+  /* Footer
+  ----------------------------------------------- */
+  #footer {
+  	color: #fff;
+  	background: #55554C url(/includes/h1.gif) repeat-x left bottom;
+  	border-top: solid 1px #72726E;
+  	border-bottom: solid 3px #53534A;
+  }
+
+  /** END CUSTOM SKIN **/
+  </style>
+
+  <!-- Hack to avoid flash of unstyled content in IE -->
+  <script> </script>
+</head>
+
+<body id="twocolumn-left">
+  <div id="container">
+    <div class="wrapper">
+      <div id="header">
+        <div class="wrapper">
+          <h1 id="page-title"><div id='g_title'><table align="center" bgcolor="#55554c" cellpadding="0" cellspacing="0" width="680"><tbody><tr valign="middle"><td align="center" bgcolor="#55554c"><h2 style="color: rgb(255, 255, 255); text-align: left;">Penang Hotel Mingood<br></h2><h2 style="color: rgb(255, 255, 255); text-align: left;"></h2><img style="border-width: 0px;" src="malaysia.jpg"></td><td align="center" bgcolor="#55554c"><img src="logoforwebpage.jpg/logoforwebpage-medium;init:.jpg" style="border-style: none; border-width: 0pt;" alt="" align="absmiddle" vspace="10"></td></tr></tbody></table></div></h1>
+          <div style="clear: both"></div>
+          <p class="description"><div id='g_description'>
+<table align="center" bgcolor="#ffffcc" cellpadding="0" cellspacing="0" width="680"><tbody><tr><td colspan="2" align="center"><img src="penangicon-resized.jpg/penangicon-resized-full.jpg" alt="" border="0" height="106" width="600">
+<h3 align="center">Hotel Mingood offers you the heartbeat of Penang&#39;s historical George Town<br>
+ - a UNESCO World Heritage Site</h3>
+
+<p align="center">Tel: +604-2299922 Fax: +604-2280766 Email: <a href="mailto:sales@hotelmingood.com">sales@hotelmingood.com</a></p>
+
+<p align="center">GPS Position - Lat : N5.421829, Long : E100.330421</p>
+
+<p></p>
+</td></tr></tbody></table>
+</div></p>
+          <div style="clear: both"></div>
+        </div>
+      </div>
+      <!-- /wrapper --><!-- /header -->
+      <div id="main-content">
+        <div class="wrapper">
+          <div class="content-item"><div id='g_body'><h1 align="center">Best Value Hotel in Penang<br></h1><h4 style="text-align: justify; clear: both; margin-left: 1em; margin-right: 1em; font-family: Arial,Helvetica,sans-serif;">Hotel
+Mingood is the only hotel in Penang with Free High Speed Wifi and 4
+Astro channels (StarSports, ESPN, StarMovies and BBC World News)
+available to all rooms!</h4><p class="separator" style="border: medium none ; clear: both; text-align: center;"><a style="border: 0pt none ; margin-left: 1em; margin-right: 1em; background-color: transparent;" href="lobby-new-740211.JPG/lobby-new-740211-full.jpg"><img style="border: 0pt none ;" src="lobby-new-740211.JPG/lobby-new-740211-custom;size:219,164.jpg" alt="" vspace="10"></a></p><p style="margin-left: 1em;"><a style="border: 0pt none ; clear: right; float: right; margin-bottom: 1em; margin-left: 1em; background-color: transparent;" href="front-new-720408.JPG/front-new-720408-full.jpg"><img style="border: 0pt none ; margin-right: 10px;" src="front-new-720408.JPG/front-new-720408-custom;size:173,130.jpg" alt=""></a><span style="font-size: 100%; font-family: Arial;">Too far away for a phone call? Why not BOOK ONLINE. You can make your reservation online and securely through this website. We make some of our rooms available to be immediately booked online. You&#39;ll need a valid credit card to make a booking.</span></p><p align="center"><span style="font-size: 180%; color: rgb(255, 0, 0);"><span style="color: rgb(255, 0, 0);"><a href="https://secure.worldhostelguide.com/max/searchForAvailability.php?ID=971">Click here to Book Online</a></span></span></p><p style="margin: 1em; text-align: justify;"><span style="font-size: 100%; color: rgb(51, 204, 0); font-family: Arial;">A booking fee of 1 EURO (about MYR4.80) for each booking will be charged to your credit card. The full accommodation amount will be payable upon your arrival at the hotel. There is no need to reconfirm these bookings, but your booking will be release after 7pm local Malaysian time. Your rooms may or may not be available after the release time.</span></p><p align="center"><img style="" src="Traveling-with-Climate-in-M.gif/Traveling-with-Climate-in-M-custom;size:380,115.gif" alt="" border="0" height="107" width="380"></p></div></div>
+          <div style="clear: both"></div>
+        </div>
+      </div>
+      <!-- /wrapper --><!-- /main-content -->
+      <div id="sidebar">
+        <div class="wrapper">
+          <div class="links">
+            <div class="wrapper"><div id='g_sidebar'><table align="center" bgcolor="#ffffcc" cellpadding="0" cellspacing="0" width="210"><tbody><tr><td width="10"><br></td><td style="font-family: arial;" valign="top" width="230"><p>Main Page</p><p><a href="explore">Explore the Hotel</a></p><p><a href="gettingthere2">Getting There</a></p><p><a href="whattodoinpenang">What to Do in Penang</a></p><p><a href="hotelmingood-visainformation">Thai Visa Information</a></p><p><a href="rates">Rates</a></p><iframe class="igm" tabindex="0" igsrc="http://www.google.com/ig/modules/calendar.png" src="http://229.gmodules.com/ig/ifr?mid=229&amp;synd=trogedit&amp;url=http%3A%2F%2Fwww.google.com%2Fig%2Fmodules%2Fcalendar-for-your-site.xml&amp;up_showCalendar2=1&amp;up_showAgenda=1&amp;up_firstDay=Sunday&amp;up_stylesheet=&amp;up_sub=0&amp;up_c0u=http://www.google.com/calendar/feeds/f02ltt8itgeihtkk5umqk3at6o%40group.calendar.google.com/public/basic&amp;up_c0c=#FFAA88&amp;up_c1u=&amp;up_c1c=&amp;up_c2u=&amp;up_c2c=&amp;up_c3u=&amp;up_c3c=&amp;up_min=&amp;up_start=&amp;up_timeFormat=1:00pm&amp;h=207&amp;w=207" allowtransparency="" frameborder="0" scrolling="false" height="207" width="207"></iframe><script type="text/javascript">
+zg_insert_badge = function() {
+var zg_bg_color = 'FFEEAA';
+var zgi_url = 'http://www.flickr.com/apps/badge/badge_iframe.gne?zg_bg_color='+zg_bg_color+'&zg_person_id=93012102%40N00';
+document.write('<iframe style="background-color:#'+zg_bg_color+'; border-color:#'+zg_bg_color+'; border:none;" width="113" height="151" frameborder="0" scrolling="no" src="'+zgi_url+'" title="Flickr Badge"><\/iframe>');
+if (document.getElementById) document.write('<div id="zg_whatlink"><a href="http://www.flickr.com/badge.gne"	style="color:#3993ff;" onclick="zg_toggleWhat(); return false;">What is this?<\/a><\/div>');
+}
+zg_toggleWhat = function() {
+document.getElementById('zg_whatdiv').style.display = (document.getElementById('zg_whatdiv').style.display != 'none') ? 'none' : 'block';
+document.getElementById('zg_whatlink').style.display = (document.getElementById('zg_whatdiv').style.display != 'none') ? 'none' : 'block';
+return false;
+}
+</script><div align="center"><div class="zg_div"><div class="zg_div_inner"><a href="http://www.flickr.com/">www.<b>flick<span style="color: rgb(255, 28, 146);">r</span></b>.com</a><br><script type="text/javascript">zg_insert_badge();</script><div id="zg_whatdiv">This is a Flickr badge showing public photos from <a href="http://www.flickr.com/photos/93012102@N00">hotelmingood</a>. Make your own badge <a href="http://www.flickr.com/badge.gne">here</a>.</div><script type="text/javascript">if (document.getElementById) document.getElementById('zg_whatdiv').style.display = 'none';</script></div><br>Penang Weather Now:<br><a href="http://www.wunderground.com/global/stations/48601.html?bannertypeclick=miniWeather10"><img alt="Click for Penang, Malaysia Forecast" src="http://banners.wunderground.com/weathersticker/miniWeather10_both/language/www/global/stations/48601.gif" border="0" height="50" width="150"></a><br><br><img src="TIESMEMBER2.gif/TIESMEMBER2-medium;init:.jpg" style="border-style: none; border-width: 0pt;" alt=""><br><br><img src="greenglobelogo135x65new.gif/greenglobelogo135x65new-medium;init:.jpg" style="border: 0pt none ;" alt=""></div><br><script type="text/javascript"><!--//<![CDATA[
+ document.MAX_ct0 ='{clickurl}';
+ var m3_u = (location.protocol=='https:'?'https://mathaba.net/openx/www/delivery/ajs.php':'http://mathaba.net/openx/www/delivery/ajs.php');
+ var m3_r = Math.floor(Math.random()*99999999999);
+ if (!document.MAX_used) document.MAX_used = ',';
+ document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+ document.write ("?zoneid=76&amp;block=1");
+ document.write ('&amp;cb=' + m3_r);
+ if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+ document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+ document.write ("&amp;loc=" + escape(window.location));
+ if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+ if (document.context) document.write ("&context=" + escape(document.context));
+ if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+ document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+ }
+ if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+ document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript></noscript><script type="text/javascript"><!--//<![CDATA[
+ document.MAX_ct0 ='{clickurl}';
+ var m3_u = (location.protocol=='https:'?'https://mathaba.net/openx/www/delivery/ajs.php':'http://mathaba.net/openx/www/delivery/ajs.php');
+ var m3_r = Math.floor(Math.random()*99999999999);
+ if (!document.MAX_used) document.MAX_used = ',';
+ document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+ document.write ("?zoneid=74&amp;block=1");
+ document.write ('&amp;cb=' + m3_r);
+ if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+ document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+ document.write ("&amp;loc=" + escape(window.location));
+ if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+ if (document.context) document.write ("&context=" + escape(document.context));
+ if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+ document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+ }
+ if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+ document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript></noscript><br><br><script type="text/javascript"><!--//<![CDATA[
+ document.MAX_ct0 ='{clickurl}';
+ var m3_u = (location.protocol=='https:'?'https://mathaba.net/openx/www/delivery/ajs.php':'http://mathaba.net/openx/www/delivery/ajs.php');
+ var m3_r = Math.floor(Math.random()*99999999999);
+ if (!document.MAX_used) document.MAX_used = ',';
+ document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+ document.write ("?zoneid=75&amp;block=1");
+ document.write ('&amp;cb=' + m3_r);
+ if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+ document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+ document.write ("&amp;loc=" + escape(window.location));
+ if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+ if (document.context) document.write ("&context=" + escape(document.context));
+ if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+ document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+ }
+ if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+ document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript></noscript></div></td></tr></tbody></table></div></div>
+            <div style="clear: both"></div>
+          </div>
+    <!-- /wrapper --><!-- /links -->
+        </div>
+        
+      </div>
+      <!-- /wrapper --><!-- /sidebar -->
+      <div id="footer"><div class="wrapper">
+        <hr />
+        <p><div id='g_footer'>
+<p><span class="Apple-style-span" style="font-family: Arial; line-height: normal;"><span class="Apple-style-span" style="font-size: small;">Copyright (C) 2008-09 Hotel Mingood    |    Phone: +6 04-2299922    |   Email: sales@hotelmingood.com</span></span><br></p>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-252377-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</div></p>
+        <div style="clear: both"></div>
+      </div></div>
+      <!-- /wrapper --><!-- /footer -->
+    </div>
+  </div>
+  <!-- /wrapper --><!-- /container -->
+
+<div id="extraDiv1"><span></span></div><div id="extraDiv2"><span></span></div>
+<div id="extraDiv3"><span></span></div><div id="extraDiv4"><span></span></div>
+<div id="extraDiv5"><span></span></div><div id="extraDiv6"><span></span></div>
+
+</body>
+</html>

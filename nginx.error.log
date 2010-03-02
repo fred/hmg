@@ -1,0 +1,14 @@
+2009/09/18 20:15:43 [info] 2390#0: *3 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:15:43 [info] 2390#0: *2 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:15:43 [info] 2390#0: *4 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:15:43 [info] 2390#0: *1 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:16:18 [info] 2390#0: *11 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:16:18 [info] 2390#0: *7 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:16:18 [info] 2390#0: *9 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:16:18 [info] 2390#0: *10 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:16:18 [info] 2390#0: *6 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:16:18 [info] 2390#0: *8 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:23:18 [info] 2390#0: *14 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:23:18 [info] 2390#0: *15 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 20:39:03 [info] 2390#0: *20 kevent() reported that client 127.0.0.1 closed keepalive connection
+2009/09/18 21:06:22 [info] 2390#0: *28 kevent() reported that client 127.0.0.1 closed keepalive connection
